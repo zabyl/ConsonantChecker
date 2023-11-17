@@ -1,0 +1,15 @@
+C:\Users\ASUS\PatikaDev\ConsonantChecker\bin\Debug\net7.0\ConsonantChecker.exe
+C:\Users\ASUS\PatikaDev\ConsonantChecker\bin\Debug\net7.0\ConsonantChecker.deps.json
+C:\Users\ASUS\PatikaDev\ConsonantChecker\bin\Debug\net7.0\ConsonantChecker.runtimeconfig.json
+C:\Users\ASUS\PatikaDev\ConsonantChecker\bin\Debug\net7.0\ConsonantChecker.dll
+C:\Users\ASUS\PatikaDev\ConsonantChecker\bin\Debug\net7.0\ConsonantChecker.pdb
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.csproj.AssemblyReference.cache
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.AssemblyInfoInputs.cache
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.AssemblyInfo.cs
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.dll
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\refint\ConsonantChecker.dll
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.pdb
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ConsonantChecker.genruntimeconfig.cache
+C:\Users\ASUS\PatikaDev\ConsonantChecker\obj\Debug\net7.0\ref\ConsonantChecker.dll
